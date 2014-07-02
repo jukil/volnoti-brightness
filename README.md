@@ -2,7 +2,7 @@
 Lightweight brightness notification for Linux using volnoti.
 
 # Installation
-1. Install [volnoti](https://github.com/davidbrazdil/volnoti) notification daemon
+1. Install [hcchu's fork](https://github.com/hcchu/volnoti#new-options-in-this-fork) of [volnoti](https://github.com/davidbrazdil/volnoti) notification daemon
 2. Place `display-brightness-symbolic.svg` as 
 `/usr/share/pixmaps/volnoti-brightness/display-brightness-symbolic.svg`
 3. Place `volnoti-brightness` somehwere on your path, e.g. in `/usr/local/bin`
